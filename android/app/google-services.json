@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039897536719",
+    "firebase_url": "https://alphapvt-default-rtdb.firebaseio.com",
+    "project_id": "alphapvt",
+    "storage_bucket": "alphapvt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039897536719:android:8fdcf675dee2be25adafba",
+        "android_client_info": {
+          "package_name": "com.example.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039897536719-3mlnq32iimt4vqc3564i8j0f0uqkimi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzUVYtJglRmjO7Ifq0SDTh58qqOyrHSRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039897536719-3mlnq32iimt4vqc3564i8j0f0uqkimi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
